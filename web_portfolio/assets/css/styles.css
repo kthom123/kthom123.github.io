@@ -151,6 +151,7 @@ nav ul.show {
 .more-about h2 {
   margin-bottom: var(--bottom-margin);
   text-align: center;
+  font: bold;
 }
 
 .more-about p {
@@ -168,6 +169,7 @@ nav ul.show {
 
 .skill-header {
   margin-bottom: 1rem;
+  font: bold;
 }
 
 .skills-wrapper img {
