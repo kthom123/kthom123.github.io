@@ -130,6 +130,7 @@ nav ul.show {
 }
 
 .bio h2 {
+  margin-bottom: var(--bottom-margin);
   text-align: center;
   font: bold;
 }
@@ -144,6 +145,7 @@ nav ul.show {
   background-color: var(--bg-color);
   margin-top: 2rem;
   padding: 1rem 3.5rem;
+  color: white;
 }
 
 .more-about h2 {
