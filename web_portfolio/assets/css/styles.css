@@ -7,9 +7,9 @@
   --bolder-font: 900;
   --bg-color: #000000;
   --primary-color: #e0e1ec;
-  --secondary-color: #ff7235;
-  --primary-shadow: #8b8eaf;
-  --secondary-shadow: #a17a69;
+  --secondary-color: #1d6d3e;
+  --primary-shadow: #e1e2ef;
+  --secondary-shadow: #7cb292;
   --bottom-margin: 0.5rem;
   --bottom-margin-2: 1rem;
   --line-height: 1.7rem;
@@ -53,7 +53,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 1.5rem 1rem;
+  padding: 1rem 1rem;
   background-color: var(--bg-color);
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
 }
@@ -73,11 +73,11 @@ nav a:hover {
 
 nav ul {
   display: flex;
-  gap: 1.9rem;
+  gap: 1rem;
   position: fixed;
   background-color: var(--bg-color);
   flex-direction: column;
-  top: 86px;
+  top: 72px;
   left: 10%;
   width: 80%;
   text-align: center;
