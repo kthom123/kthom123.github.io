@@ -66,6 +66,7 @@ nav a {
   color: var(--primary-color);
   transition: var(--transition);
 }
+
 nav a:hover {
   color: var(--secondary-color);
   border-bottom: 2px solid var(--secondary-color);
@@ -235,6 +236,10 @@ nav ul.show {
   box-shadow: 0 3px 10px var(--primary-shadow);
   padding: 20px;
   margin: 10px;
+}
+
+.project-link {
+  color: var(--secondary-color);
 }
 
 .contact {
