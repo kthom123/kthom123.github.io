@@ -107,11 +107,9 @@ nav ul.show {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 2.5rem;
   max-width: 68.75rem;
   margin: auto;
-  margin-top: -4rem;
-  flex-direction: column;
-  gap: 0;
 }
 
 .hero img {
@@ -177,8 +175,8 @@ nav ul.show {
 }
 
 .icon {
-  width: 5.875rem;
-  height: 5.25rem;
+  width: 9.875rem;
+  height: 9.25rem;
 }
 
 .icon-card {
@@ -204,17 +202,18 @@ nav ul.show {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
 }
 
 .projects-title {
   text-align: center;
   margin-bottom: 1rem;
+  color: white;
+  font: bold;
 }
 
 .project-container {
   text-align: center;
-  width: 20.875rem;
+  width: 21.875rem;
   padding: 1rem;
 }
 
