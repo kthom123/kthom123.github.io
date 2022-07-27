@@ -252,7 +252,7 @@ nav ul.show {
 }
 
 .contact-form-container {
-  max-width: 23.75rem;
+  max-width: 40.75rem;
   margin: 0 auto;
   padding: 0.938rem;
   border-radius: 5px;
@@ -272,6 +272,7 @@ nav ul.show {
 
 .contact-form-container .input-field {
   width: 100%;
+  padding-left: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
   border-radius: 5px;
