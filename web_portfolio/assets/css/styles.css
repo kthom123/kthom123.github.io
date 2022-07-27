@@ -310,7 +310,7 @@ nav ul.show {
   flex-direction: column;
   position: fixed;
   right: 1%;
-  bottom: 50%;
+  bottom: 0%;
 }
 
 .socicon {
@@ -323,21 +323,11 @@ footer {
   padding: 1.25rem;
   text-align: center;
   margin: 2rem 0 0;
-}
-
-.scroll-up {
-  position: fixed;
-  right: 0.5%;
-  bottom: 3%;
-  cursor: pointer;
-}
-
-.up-arrow {
-  width: 3rem;
-  height: 3rem;
+  color: white;
 }
 
 @media screen and (max-width: 420px) {
+  /*changes reflects on screen with a width of 720px and below*/
   .hero img {
     height: 37.5rem;
     width: 23rem;
