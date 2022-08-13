@@ -186,7 +186,7 @@ nav ul.show {
 
 .project-pic {
   width: 65%;
-  height: 60%;
+  height: 43%;
 }
 
 .projects-container {
@@ -226,6 +226,8 @@ nav ul.show {
   box-shadow: 0 3px 10px var(--primary-shadow);
   padding: 20px;
   margin: 10px;
+  width: 400px;
+  height: 400px;
 }
 
 .project-link {
