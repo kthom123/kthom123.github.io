@@ -7,6 +7,8 @@ My personal portfolio made with simple HTML, CSS, and JS
 ![webpage 3](https://user-images.githubusercontent.com/99015262/181658891-c4acb9a0-3812-4966-9669-7e587e705172.png)
 ![webpage 4](https://user-images.githubusercontent.com/99015262/181658896-3b3ac407-3834-4785-ace8-e5739c677449.png)
 
+Check it out:
+https://kthom123.github.io/web_portfolio/
 
 
 Runs the app in the development mode.
